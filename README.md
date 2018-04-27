@@ -1,5 +1,8 @@
 # Raspberry Pi IoT Experience
 this only works on a raspberry pi. all you need is a raspberry pi.
+The script measures the temperature on the pi, then uploads it to a Thingspeak channel.
+
+# Instructions
 
 ## Create a Thingspeak account
 Follow the instructions here: https://www.dexterindustries.com/BrickPi/brickpi-tutorials-documentation/projects/thingspeak-temperature-log/
