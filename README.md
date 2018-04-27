@@ -1,3 +1,6 @@
+# Raspberry Pi IoT Experience
+this only works on a raspberry pi. all you need is a raspberry pi.
+
 ## Create a Thingspeak account
 Follow the instructions here: https://www.dexterindustries.com/BrickPi/brickpi-tutorials-documentation/projects/thingspeak-temperature-log/
 
