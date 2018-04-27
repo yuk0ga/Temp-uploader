@@ -12,8 +12,8 @@ git clone https://github.com/yuk0ga/Temp-uploader.git
 Reveiw Step 6 from the instruction above.
 
 ## Run
-Then ignore the steps Step7, clone the python file and run
+Then ignore the steps after Step7, and run the python script
 ```bash
 sudo python Thermometer_Thingspeak.py
 ```
-Go to your channel, and you'll see the graph plotted
+Go to your channel on Thingspeak, and you'll see the graph plotted
